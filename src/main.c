@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main() {
+
   enableRawMode();
 
   while (1) {
